@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CustomDesign</string>
+
+
+    <string name="detail_icon_des">icon</string>
+    <string name="back_arrow_des">BackArrow</string>
+    <string name="appbar_name">Pharmacy Delivery</string>
+    <string name="total_amount">Total Amounts</string>
+    <string name="location_text">No. 6(b), Anayahtar Road, Kyout Tha Dar Yangon</string>
+    <string name="select_all">Select all</string>
+    <string name="unselect_all">Unselect all</string>
+    <string name="location_image">location_image</string>
+    <string name="pick_up_button">Pick Up</string>
+    <string name="delivery_button">Delivery</string>
+    <string name="order_type">How to get it...?</string>
+
+
+</resources>

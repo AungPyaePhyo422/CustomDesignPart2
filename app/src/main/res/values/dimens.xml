@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_button_size">24dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="elevation_size_4dp">4dp</dimen>
+    <dimen name="elevation_size_3dp">3dp</dimen>
+    <dimen name="card_corner_size">16dp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_normal">13sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_large">14sp</dimen>
+    <dimen name="rounded_button_size">48dp</dimen>
+
+</resources>
